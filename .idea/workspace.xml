@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecec5bb9-0281-4495-9e49-922a17026928" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sudoku/nbproject/project.properties" afterPath="$PROJECT_DIR$/Sudoku/nbproject/project.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sudoku/src/sudoku/Sudoku.java" afterPath="$PROJECT_DIR$/Sudoku/src/sudoku/Sudoku.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sudoku-html/index.html" afterPath="$PROJECT_DIR$/sudoku-html/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -206,15 +203,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1490615253698</updated>
-      <workItem from="1490615255598" duration="91000" />
+      <workItem from="1490615255598" duration="668000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91000" />
+    <option name="totallyTimeSpent" value="668000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
